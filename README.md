@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Prediction of heart disease using KNN means
+Prediction of heart disease using Random Forest
